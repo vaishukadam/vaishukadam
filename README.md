@@ -8,7 +8,7 @@ I’m passionate about turning data into actionable insights. With a background 
 
 Languages: Python, SQL
 
-Visualization: Power BI, Tableau
+Visualization: Power BI
 
 Databases: MySQL
 
@@ -39,10 +39,7 @@ Lead Scoring (Logistic Regression)
 📫 Connect With Me
 www.linkedin.com/in/vaishnavikadam21
 
-vaihsnavi2111kadam@gmail.com
+vaishnavi2111kadam@gmail.com
 
 Always exploring new ways to leverage data for better decision-making!
 
-LinkedIn: linkedin.com/in/your-link
-
-Email: vaishnavi2111kadam@gmail.com
