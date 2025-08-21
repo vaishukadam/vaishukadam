@@ -1,6 +1,6 @@
 👋 Hi, I'm Vaishnavi Kadam
 
-📊 Business Analyst | Data Analyst | SQL | Python | Power BI | Tableau
+📊 Business Analyst | Data Analyst | SQL | Python | Power BI 
 
 I’m passionate about turning data into actionable insights. With a background in Business Analytics (PGDM) and experience as a Spatial Data Specialist at HERE Technologies, I work on projects that combine analytics, machine learning, and visualization.
 
